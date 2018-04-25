@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Signaltonsalat Dev
+tagline:          "Logbook"
+description:      "There's good points, some bad points — it all works out."
+url:              https://signaltonsalat.github.io/
+baseurl:          ""
+
+author:
+  name:           'Signaltonsalat'
+  url:            https://twitter.com/Signaltonsalat
+
+paginate:         20
+plugins:          [jekyll-paginate]
