@@ -192,7 +192,7 @@ better grasp of DoDonPachi's code and how to get more information.
 If anyone out there can help, hit me up! This has been my first reverse
 engineering project, so there's a lot to learn, I'm sure.
 
-The code reading all this data from memory is available [here.][6]
+The code reading all this data from memory is available [here.][7]
 
 
 [1]: {% post_url 2018-04-26-dodonbotchi %}
