@@ -173,7 +173,7 @@ spawner. However, I've yet to get it to actually work. I can get into the debug
 menu, do things like switching levels or pausing the game, but the object
 spawner does not seem to work, even for the known object IDs listed in that
 blog post. If I ever do get it working, I could observe the code run to spawn
-and object, where its data gets read from and where it gets written to and
+an object, where its data gets read from and where it gets written to and
 probably figure out more about the internals of the game. Hopefully I'll figure
 it out down the line.
 
