@@ -201,4 +201,4 @@ The code reading all this data from memory is available [here.][7]
 [4]: http://sudden-desu.net/entry/dodonpachi-debug-tools-level-select-and-more
 [5]: https://www.youtube.com/watch?t=44m15s&v=88PQs5ZWUCM
 [6]: https://github.com/radare/radare2
-[7]: https://github.com/Signaltonsalat/dodonbotchi/blob/master/dodonbotchi/plugin/dodonbotchi_ipc/init.lua
+[7]: https://github.com/Palculator/dodonbotchi/blob/master/dodonbotchi/plugin/dodonbotchi_ipc/init.lua

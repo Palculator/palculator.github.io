@@ -9,9 +9,8 @@ enough to warrant a blog post about it.
 
 If you want to reach out, you can find me on other sites:
 
-* Twitter: [@Signaltonsalat](https://twitter.com/Signaltonsalat)
-* Steam: [Signaltonsalat](https://steamcommunity.com/id/signaltonsalat)
-* GitHub: [Signaltonsalat](https://github.com/Signaltonsalat)
-* Reddit: [/u/Signaltonsalat](https://www.reddit.com/user/Signaltonsalat/)
+* Twitter: [@Palculator](https://twitter.com/Palculator)
+* Steam: [Palculator](https://steamcommunity.com/id/palculator)
+* GitHub: [Palculator](https://github.com/Palculator)
 
 Cheers

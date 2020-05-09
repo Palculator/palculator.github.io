@@ -6,15 +6,15 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Signaltonsalat Dev
+title:            Palculator Dev
 tagline:          "Logbook"
 description:      "Prosecutedt to the full extent of the jam."
-url:              https://signaltonsalat.github.io/
+url:              https://palculator.github.io/
 baseurl:          ""
 
 author:
-  name:           'Signaltonsalat'
-  url:            https://twitter.com/Signaltonsalat
+  name:           'Palculator'
+  url:            https://twitter.com/Palculator
 
 paginate:         20
 plugins:          [jekyll-paginate]

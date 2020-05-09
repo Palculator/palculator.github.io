@@ -43,4 +43,4 @@ for now, I'm pretty happy with how smooth all of this went.
 
 [4]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [5]: https://zishuaiz.github.io/blog/how-to-enable-mathjax-in-github-pages
-[6]: https://github.com/Signaltonsalat/signaltonsalat.github.io
+[6]: https://github.com/Palculator/palculator.github.io
